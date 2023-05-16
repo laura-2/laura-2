@@ -1,6 +1,6 @@
-# lauraVerbinen
+# Laura Helena Verbinen
 # 💫 About Me:
-I'm currently working with the JavaScript programming<br> language, as well as the React framework and React Native.<br>I'm also currently learning Vue technology. <br>I love working with React Native and it really helps me <br>identify with my work. I've already studied HTML and CSS styles. <br>I'm currently looking for projects that utilize React, <br>as that's what I want to specialize in.
+I'm currently working with the JavaScript programming language, as well as the React framework and React Native. I'm also currently learning Vue technology. I love working with React Native and it really helps me identify with my work. I've already studied HTML and CSS styles. I'm currently looking for projects that utilize React, as that's what I want to specialize in.
 
 
 ## 🌐 Socials:
