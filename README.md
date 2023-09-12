@@ -30,7 +30,7 @@ I'm currently working with the JavaScript programming language, as well as the R
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![TailwildCss](https://img.shields.io/badge/TailwildCss-%23026AA7.svg?style=for-the-badge&logo=TailWildCss&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-%23026AA7.svg?style=for-the-badge&logo=TailWindCss&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=laura-2&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laura-2&theme=react&hide_border=false)<br/>
